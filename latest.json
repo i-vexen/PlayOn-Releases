@@ -1,7 +1,7 @@
 {
-  "versionName": "1.0",
-  "versionCode": 1,
-  "downloadUrl": "https://github.com/i-vexen/PlayOn-Releases/releases/download/v1.0/app-release.apk",
-  "sha256": "4047097879f5f228f5b7e685b0ec80bdae948d5616bc855792574e7b5b0a4cf5",
-  "releaseNotes": "Official initial release of PlayOn 1.0. Signed release build."
+  "versionName": "1.0.1",
+  "versionCode": 2,
+  "downloadUrl": "https://github.com/i-vexen/PlayOn-Releases/releases/download/v1.0.1/app-release1.0.1.apk",
+  "sha256": "53c91dbf3fc249c6d35567f786c3ffc24bd1691dfbccc3fbaebae23261bbc44f",
+  "releaseNotes": "PlayOn 1.0.1. Added equalizer."
 }
