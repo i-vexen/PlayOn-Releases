@@ -1,7 +1,7 @@
 {
   "versionName": "1.0",
   "versionCode": 1,
-  "downloadUrl": "https://github.com/i-vexen/PlayOn-Releases/releases/download/v1.0.1/v1.0.1.apk",
+  "downloadUrl": "https://github.com/i-vexen/PlayOn-Releases/releases/download/v1.0/app-release.apk",
   "sha256": "4047097879f5f228f5b7e685b0ec80bdae948d5616bc855792574e7b5b0a4cf5",
-  "releaseNotes": "PlayOn 1.0 signed release."
+  "releaseNotes": "Official initial release of PlayOn 1.0. Signed release build."
 }
